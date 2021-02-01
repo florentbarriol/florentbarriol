@@ -1,5 +1,9 @@
 ### Hello there, I'm Florent 🧑🏻‍💻
 
+- 🔭 I’m currently working at Linkvalue for Bedrock Streaming
+- 💬 Ask me about Javascript, ReactJS, HTML, CSS & other frontend things
+- 🌱 I’m currently learning ReasonML
+- 🚵‍I'm loving mountain biking, cooking, video games, peppermint ice cream & many other things
 
 
 <!--

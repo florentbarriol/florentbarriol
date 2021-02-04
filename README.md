@@ -1,22 +1,17 @@
-### Hello there, I'm Florent 🧑🏻‍💻
+## Bonjour 🙋‍♂️
+
+### Welcome to my github page !
 
 - 🔭 I’m currently working at Linkvalue for Bedrock Streaming
-- 💬 Ask me about Javascript, ReactJS, HTML, CSS & other frontend things
+- 💬 Ask me about anything, I
 - 🌱 I’m currently learning ReasonML
-- 💗 I'm loving mountain biking, cooking, video games, peppermint ice cream & many other things
+- 💗 I'm loving mountain biking, cooking, video games, electronic music, peppermint ice cream & many other things
+- 📫 How to reach me: [Twitter](https://twitter.com/florentbarriol), [Linkedin](https://www.linkedin.com/in/florentbarriol), [my website](https://florentbarriol.com)
 
+### Fun fact ⚡
+
+![fun fact](https://media.giphy.com/media/XknChYwfPnp04/giphy.gif)
 
 <!--
 **florentbarriol/florentbarriol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at Bedrock Streaming
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

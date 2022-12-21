@@ -2,7 +2,7 @@
 
 ### Welcome to my github page !
 
-- 🔭 I’m currently working at Linkvalue for Arte (ex. Bedrock Streaming)
+- 🔭 I’m currently working at ... (ex. Linkvalue, Arte.tv, Bedrock Streaming)
 - 💬 Ask me about HTML, CSS or JS/ReactJs things
 - 🌱 I’m currently learning how to make projects more accessible to everyone and more energy-efficient
 - 💗 I'm loving mountain biking, cooking, video games, electronic music, peppermint ice cream & many other things

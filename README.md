@@ -2,12 +2,12 @@
 
 ### Welcome to my github page !
 
-- 🔭 I’m currently working at elmy énergie (ex. Linkvalue, Arte.tv, Bedrock Streaming)
+- 🔭 I’m currently working at elmy (ex. Linkvalue, Arte.tv, Bedrock Streaming)
 - 💬 Ask me about HTML, CSS or JS/ReactJs things
-- 🌱 I’m currently learning backend things and how to make projects more accessible to everyone and more energy-efficient
+- 🌱 I’m currently learning micro-frontends things and how to make frontend more decentralized
 - 💗 I'm loving mountain biking, cooking, video games, electronic music, peppermint ice cream & many other things
 - ⛰️ 🚴 I climbed the [Mont Ventoux](https://www.strava.com/activities/5583234619) with some buddies
-- 📫 How to reach me: [Twitter](https://twitter.com/florentbarriol), [Linkedin](https://www.linkedin.com/in/florentbarriol), [Personnal website](https://florentbarriol.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/florentbarriol), [Personnal website](https://florentbarriol.com)
 
 ### Fun fact ⚡
 
